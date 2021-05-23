@@ -20,3 +20,6 @@ The following is a vacation map made using Pandas and OpenWeatherMap API. It ret
 Based on Jack's preferences, a vacation itinerary map is made that includes a road trip between four cities: Acapulco, Tecoanapa, Puerto Escondido, and Pochutla in Mexico. The itinerary map is made using Google's Directions API. 
 
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/45697471/114321598-a585d100-9ae9-11eb-94eb-0b6c4748d875.png)
+
+### Contact 
+#### E-mail: mishaal22s@gmail.com
